@@ -1,4 +1,4 @@
-# Thermocouple Amplifier MAX31855 
+# Thermocouple Amplifier MAX31855 (MAX6675 upgrade)
 
 <a href="http://www.adafruit.com/products/269"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
